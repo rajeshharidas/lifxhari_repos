@@ -1,7 +1,7 @@
 {
-  "name": "webhook-echo-sample",
+  "name": "lightson",
   "version": "1.0.0",
-  "description": "Webhook echo sample",
+  "description": "Lights on Webhook",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

@@ -9,6 +9,7 @@
   "author": "rh",
   "dependencies": {
     "body-parser": "^1.15.0",
+      "request": "^2.79.0",
     "express": "^4.13.4"
   }
 }
